@@ -8,3 +8,5 @@ Here you will have files of the languages ​​I learned: Python, Java and C.
 But some of them have more things than others and will always be updated as I do more college activities and anything I develop at home.
 
 ##### Note: For now some of the codes have no explanation and I will do this over time, the only thing that can help you understand better what it does is the name of the file and its use <h5>
+
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
